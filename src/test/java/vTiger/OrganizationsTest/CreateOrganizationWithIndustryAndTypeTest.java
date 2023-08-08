@@ -59,6 +59,7 @@ public class CreateOrganizationWithIndustryAndTypeTest extends BaseClass
     public void sampletest()
     {
     	System.out.println("Sample test");
+    	System.out.println("Hello");
     }
 
 }
